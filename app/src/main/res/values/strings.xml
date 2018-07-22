@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChoreApp</string>
+    <string name="hintChore">Chore Name</string>
+    <string name="hint2">Assigned to...</string>
+    <string name="hint3">Assign by...</string>
+    <string name="choreName">Chore Name</string>
+    <string name="button1">Save Chore</string>
+    <string name="hintC">Chore Name</string>
+    <string name="contentDescription">Chore Icon</string>
+    <string name="menu_title">Add Chore</string>
+
+</resources>
